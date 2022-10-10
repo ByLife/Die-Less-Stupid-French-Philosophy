@@ -93,5 +93,6 @@ Les grandes nations civilisées de l'Europe contemporaine sont toutes en décade
 Définitions 
 ----------------------------------------------------------------
 
+Eudémonisme:
 
 L’eudémonisme (du grec : εὐδαιμονία / eudaimonía, « béatitude ») est une doctrine philosophique posant comme principe que le bonheur est le but de la vie humaine. Le bonheur n'est pas perçu comme opposé à la raison, il en est la finalité naturelle. Ce lien entre raison et bonheur est particulièrement mis en avant par le stoïcisme mais se retrouve également dans d'autres courants philosophiques issus de l'époque hellénistique. Il se différencie de l'hédonisme, doctrine qui fixe le plaisir et non le bonheur comme but de la vie humaine.
